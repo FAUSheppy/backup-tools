@@ -7,7 +7,7 @@ from datetime import *
 import argparse
 
 ### DEFAULTS ###
-EXTENSIONS = [".tar", ".tar.gz", ".tar.gz.gpg"]
+EXTENSIONS = [".tar", ".tar.gz", ".tar.gz.gpg", ".zip"]
 DEBUG      = False
 SYSLOG     = False
 
