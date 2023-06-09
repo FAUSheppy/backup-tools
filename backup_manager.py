@@ -13,10 +13,10 @@ SYSLOG     = False
 
 backup_name  = "all"
 
-max_daily   = 7
-max_weekly  = 3
-max_monthly = 3
-max_yearly  = 1
+max_daily   = 14
+max_weekly  = 6
+max_monthly = 5
+max_yearly  = 2
 min_total   = 8
 
 day_of_monthly_backup   = 1
